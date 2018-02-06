@@ -1,0 +1,254 @@
+"line number","contest name","choice name","party name","total votes","percent of votes","registered voters","ballots cast","num County total","num County rptg","over votes","under votes"
+1,"President and Vice President of the United States","Mitt ROMNEY / Paul RYAN","REP",1087150,60.51,3037153,1815843,120,120,0,0
+2,"President and Vice President of the United States","Barack OBAMA / Joe BIDEN","DEM",679364,37.81,3037153,1815843,120,120,0,0
+3,"President and Vice President of the United States","Jill STEIN / Cheri HONKALA","GRN",6337,0.35,3037153,1815843,120,120,0,0
+4,"President and Vice President of the United States","Randall A. TERRY / Missy Reilly SMITH","IND",6873,0.38,3037153,1815843,120,120,0,0
+5,"President and Vice President of the United States","Gary JOHNSON / James P. GRAY","LIB",17063,0.95,3037153,1815843,120,120,0,0
+6,"US Representative, 1st Congressional District","Edward WHITFIELD","REP",199952,69.63,509831,304293,35,35,0,0
+7,"US Representative, 1st Congressional District","Charles Kendall HATCHETT","DEM",87196,30.37,509831,304293,35,35,0,0
+8,"US Representative, 2nd Congressional District","S. Brett GUTHRIE","REP",181508,64.30,530199,317778,21,21,0,0
+9,"US Representative, 2nd Congressional District","David Lynn WILLIAMS","DEM",89541,31.72,530199,317778,21,21,0,0
+10,"US Representative, 2nd Congressional District","Andrew R. BEACHAM","IND",6304,2.23,530199,317778,21,21,0,0
+11,"US Representative, 2nd Congressional District","Craig R. ASTOR","LIB",4914,1.74,530199,317778,21,21,0,0
+12,"US Representative, 3rd Congressional District","Brooks WICKER","REP",111452,34.54,526076,329858,1,1,0,0
+13,"US Representative, 3rd Congressional District","John A. YARMUTH","DEM",206385,63.96,526076,329858,1,1,0,0
+14,"US Representative, 3rd Congressional District","Robert L. DeVORE JR.","",4819,1.49,526076,329858,1,1,0,0
+15,"US Representative, 4th Congressional District","Thomas MASSIE","REP",186036,62.13,1047130,323416,20,20,0,0
+16,"US Representative, 4th Congressional District","William R. "Bill" ADKINS","DEM",104733,34.98,1047130,323416,20,20,0,0
+17,"US Representative, 4th Congressional District","David LEWIS","IND",8674,2.90,1047130,323416,20,20,0,0
+18,"US Representative, 5th Congressional District","Harold "Hal" ROGERS","REP",195408,77.90,537647,281382,30,30,0,0
+19,"US Representative, 5th Congressional District","Kenneth S. STEPP","DEM",55447,22.10,537647,281382,30,30,0,0
+20,"US Representative, 6th Congressional District","Garland "Andy" BARR","REP",153223,50.57,516221,320378,19,19,0,0
+21,"US Representative, 6th Congressional District","Ben CHANDLER","DEM",141438,46.68,516221,320378,19,19,0,0
+22,"US Representative, 6th Congressional District","Randolph VANCE","IND",8340,2.75,516221,320378,19,19,0,0
+23,"State Senator, 1st Senatorial District","Stan HUMPHRIES","REP",28338,59.31,79533,48900,7,7,0,0
+24,"State Senator, 1st Senatorial District","Carroll HUBBARD","DEM",19445,40.69,79533,48900,7,7,0,0
+25,"State Senator, 3rd Senatorial District","Whitney H. WESTERFIELD","REP",18457,50.41,68782,37426,3,3,0,0
+26,"State Senator, 3rd Senatorial District","Joey PENDLETON","DEM",18160,49.59,68782,37426,3,3,0,0
+27,"State Senator, 5th Senatorial District","Carroll GIBSON","REP",32028,100.00,79924,45260,6,6,0,0
+28,"State Senator, 7th Senatorial District","Frank HAYNES","REP",23213,41.00,265451,174935,4,4,0,0
+29,"State Senator, 7th Senatorial District","Julian M. CARROLL","DEM",33404,59.00,265451,174935,4,4,0,0
+30,"State Senator, 9th Senatorial District","David P. GIVENS","REP",33874,100.00,78610,44994,6,6,0,0
+31,"State Senator, 11th Senatorial District","John SCHICKEL","REP",46962,100.00,208456,123998,3,3,0,0
+32,"State Senator, 13th Senatorial District","Kathy W. STEIN","DEM",30365,100.00,196339,128406,1,1,0,0
+33,"State Senator, 15th Senatorial District","Chris GIRDLER","REP",36946,100.00,81125,48144,4,4,0,0
+34,"State Senator, 17th Senatorial District","Damon THAYER","REP",35343,66.35,171925,102332,4,4,0,0
+35,"State Senator, 17th Senatorial District","David HOLCOMB","DEM",17926,33.65,171925,102332,4,4,0,0
+36,"State Senator, 19th Senatorial District","Morgan McGARVEY","DEM",39327,100.00,526076,60272,1,1,0,0
+37,"State Senator, 21st Senatorial District","Albert ROBINSON","REP",20490,53.82,76640,40256,5,5,0,0
+38,"State Senator, 21st Senatorial District","Amie HACKER","DEM",17583,46.18,76640,40256,5,5,0,0
+39,"State Senator, 23rd Senatorial District","Chris McDANIEL","REP",23993,59.98,115201,68113,1,1,0,0
+40,"State Senator, 23rd Senatorial District","James NOLL","DEM",16010,40.02,115201,68113,1,1,0,0
+41,"State Senator, 25th Senatorial District","Robert STIVERS","REP",21198,63.95,70530,35479,7,7,0,0
+42,"State Senator, 25th Senatorial District","Ralph HOSKINS","DEM",11949,36.05,70530,35479,7,7,0,0
+43,"State Senator, 27th Senatorial District","Tony DOWNEY","REP",14350,36.49,77166,41270,5,5,0,0
+44,"State Senator, 27th Senatorial District","Walter "Doc" BLEVINS","DEM",24977,63.51,77166,41270,5,5,0,0
+45,"State Senator, 29th Senatorial District","Johnny Ray TURNER","DEM",24644,100.00,69268,34845,4,4,0,0
+46,"State Senator, 31st Senatorial District","Ray S. JONES","DEM",25303,100.00,72214,37323,3,3,0,3587
+47,"State Senator, 33rd Senatorial District","Gerald A. NEAL","DEM",33986,93.68,526076,39250,1,1,0,0
+48,"State Senator, 33rd Senatorial District","Norris SHELTON","DAS",2291,6.32,526076,39250,1,1,0,0
+49,"State Senator, 35th Senatorial District","Denise HARPER ANGEL","DEM",32126,100.00,526076,38765,1,1,0,0
+50,"State Senator, 37th Senatorial District","Chris THIENEMAN","REP",17536,41.42,526076,43834,1,1,0,0
+51,"State Senator, 37th Senatorial District","Perry B. CLARK","DEM",24806,58.58,526076,43834,1,1,0,0
+52,"State Representative, 1st Representative District","Steven Jack RUDY","REP",14080,100.00,68257,42053,5,5,0,0
+53,"State Representative, 2nd Representative District","Richard HEATH","REP",9681,54.80,73708,46453,2,2,0,0
+54,"State Representative, 2nd Representative District","Kelly WHITAKER","DEM",7984,45.20,73708,46453,2,2,0,0
+55,"State Representative, 3rd Representative District","Jason D. CROCKETT","REP",6406,40.66,49492,30781,1,1,2,2
+56,"State Representative, 3rd Representative District","Gerald WATKINS","DEM",9349,59.34,49492,30781,1,1,2,2
+57,"State Representative, 4th Representative District","Lynn BECHLER","REP",10114,56.92,73073,45124,4,4,0,0
+58,"State Representative, 4th Representative District","Raymond W. GIANNINI","DEM",7655,43.08,73073,45124,4,4,0,0
+59,"State Representative, 5th Representative District","Kenny IMES","REP",9639,55.98,36585,22010,2,2,0,0
+60,"State Representative, 5th Representative District","Hal Thomas KEMP","DEM",7581,44.02,36585,22010,2,2,0,0
+61,"State Representative, 6th Representative District","Will R. COURSEY","DEM",15021,100.00,79603,50515,3,3,0,0
+62,"State Representative, 7th Representative District","Tim KLINE","REP",7885,49.98,109806,67175,3,3,0,0
+63,"State Representative, 7th Representative District","John A. ARNOLD JR.","DEM",7890,50.02,109806,67175,3,3,0,0
+64,"State Representative, 8th Representative District","Max STURDIVANT JR.","REP",5507,34.49,54544,28879,2,2,0,0
+65,"State Representative, 8th Representative District","John C. TILLEY","DEM",10461,65.51,54544,28879,2,2,0,0
+66,"State Representative, 9th Representative District","Myron B. DOSSETT","REP",6670,100.00,43838,22055,1,1,0,0
+67,"State Representative, 10th Representative District","F.L. "Ben" WAIDE","REP",9441,60.44,32315,19896,1,1,0,0
+68,"State Representative, 10th Representative District","Mike SEIBER","DEM",6179,39.56,32315,19896,1,1,0,0
+69,"State Representative, 11th Representative District","Paul A. DeSPAIN","REP",5949,37.98,32111,18736,1,1,0,0
+70,"State Representative, 11th Representative District","David A. WATKINS","DEM",9714,62.02,32111,18736,1,1,0,0
+71,"State Representative, 12th Representative District","Jim GOOCH JR.","DEM",12394,100.00,116024,72086,4,4,0,0
+72,"State Representative, 13th Representative District","Jim GLENN","DEM",7991,50.80,67708,42412,1,1,0,0
+73,"State Representative, 13th Representative District","Bill BARRON","IND",7740,49.20,67708,42412,1,1,0,0
+74,"State Representative, 14th Representative District","Marian TURLEY","REP",8780,42.04,84226,52156,2,2,0,0
+75,"State Representative, 14th Representative District","Tommy THOMPSON","DEM",12107,57.96,84226,52156,2,2,0,0
+76,"State Representative, 15th Representative District","Marshall E. PRUNTY","REP",6838,44.02,98330,54885,3,3,0,0
+77,"State Representative, 15th Representative District","Brent YONTS","DEM",8696,55.98,98330,54885,3,3,0,0
+78,"State Representative, 16th Representative District","Chris HIGHTOWER","REP",6861,45.73,24944,15371,2,2,0,0
+79,"State Representative, 16th Representative District","Martha Jane KING","DEM",8143,54.27,24944,15371,2,2,0,0
+80,"State Representative, 17th Representative District","C. B. EMBRY JR.","REP",13077,100.00,96575,54133,3,3,0,0
+81,"State Representative, 18th Representative District","Dwight BUTLER","REP",13772,100.00,211563,126304,5,5,0,0
+82,"State Representative, 19th Representative District","Michael Lee MEREDITH","REP",12770,100.00,31194,17202,3,3,0,0
+83,"State Representative, 20th Representative District","Regina WEBB","REP",6908,39.05,71375,44103,1,1,0,0
+84,"State Representative, 20th Representative District","Jody RICHARDS","DEM",10782,60.95,71375,44103,1,1,0,0
+85,"State Representative, 21st Representative District","Jim DeCESARE","REP",15946,100.00,71375,44103,1,1,0,0
+86,"State Representative, 22nd Representative District","Wilson STONE","DEM",13073,100.00,96956,58401,3,3,0,0
+87,"State Representative, 23rd Representative District","Johnny W. BELL","DEM",12250,100.00,99780,60883,2,2,0,0
+88,"State Representative, 24th Representative District","M.J. "Bill" PICKERILL","REP",5867,38.71,67719,39816,3,3,0,0
+89,"State Representative, 24th Representative District","Terry MILLS","DEM",9288,61.29,67719,39816,3,3,0,0
+90,"State Representative, 25th Representative District","Jimmie LEE","DEM",15172,100.00,70066,39577,1,1,0,0
+91,"State Representative, 26th Representative District","Tim MOORE","REP",11179,100.00,70066,39577,1,1,0,0
+92,"State Representative, 27th Representative District","Dalton JANTZEN","REP",7252,49.00,142299,82665,3,3,0,0
+93,"State Representative, 27th Representative District","Jeff GREER","DEM",7548,51.00,142299,82665,3,3,0,0
+94,"State Representative, 28th Representative District","Corey Allen KOELLNER","REP",7059,43.87,526076,16669,1,1,0,0
+95,"State Representative, 28th Representative District","Charles W. MILLER","DEM",9031,56.13,526076,16669,1,1,0,0
+96,"State Representative, 29th Representative District","Kevin D. BRATCHER","REP",21143,100.00,526076,30397,1,1,0,0
+97,"State Representative, 30th Representative District","Aaron L. WILSON","REP",4429,24.92,526076,18589,1,1,0,0
+98,"State Representative, 30th Representative District","Thomas J. BURCH","DEM",13345,75.08,526076,18589,1,1,0,0
+99,"State Representative, 31st Representative District","Nicholas X. SIMON","REP",8759,42.43,526076,21702,1,1,0,0
+100,"State Representative, 31st Representative District","Steve RIGGS","DEM",11886,57.57,526076,21702,1,1,0,0
+101,"State Representative, 32nd Representative District","Julie Raque ADAMS","REP",16038,100.00,526076,23588,1,1,0,0
+102,"State Representative, 33rd Representative District","Ron CRIMM","REP",18252,67.27,526076,28607,1,1,0,0
+103,"State Representative, 33rd Representative District","Rick HILES","DEM",8880,32.73,526076,28607,1,1,0,0
+104,"State Representative, 34th Representative District","Mary Lou MARZIAN","DEM",17360,100.00,526076,24900,1,1,0,0
+105,"State Representative, 35th Representative District","Jim WAYNE","DEM",12041,100.00,526076,16879,1,1,0,0
+106,"State Representative, 36th Representative District","Jonathan SHELL","REP",11933,63.26,68317,40791,2,2,0,0
+107,"State Representative, 36th Representative District","Bradley Bud MONTGOMERY","DEM",6929,36.74,68317,40791,2,2,0,0
+108,"State Representative, 37th Representative District","Jeffery M. DONOHUE","DEM",7864,100.00,526076,11344,1,1,0,0
+109,"State Representative, 38th Representative District","Mike NEMES","REP",5444,40.82,526076,13689,1,1,0,0
+110,"State Representative, 38th Representative District","Denver BUTLER","DEM",7893,59.18,526076,13689,1,1,0,0
+111,"State Representative, 39th Representative District","Matt LOCKETT","REP",9877,48.01,229962,149174,2,2,0,0
+112,"State Representative, 39th Representative District","Robert R. DAMRON","DEM",10696,51.99,229962,149174,2,2,0,0
+113,"State Representative, 40th Representative District","Dennis HORLANDER","DEM",11039,100.00,526076,13345,1,1,0,0
+114,"State Representative, 41st Representative District","Tom RINER","DEM",11717,92.53,526076,14812,1,1,0,0
+115,"State Representative, 41st Representative District","Henry OWENS III.","DAS",946,7.47,526076,14812,1,1,0,0
+116,"State Representative, 42nd Representative District","Reginald K. MEEKS","DEM",14412,100.00,526076,16503,1,1,0,0
+117,"State Representative, 43rd Representative District","Darryl T. OWENS","DEM",12834,100.00,526076,15511,1,1,0,0
+118,"State Representative, 44th Representative District","Gail POWERS","REP",5042,29.92,526076,17609,1,1,0,0
+119,"State Representative, 44th Representative District","Joni JENKINS","DEM",11810,70.08,526076,17609,1,1,0,0
+120,"State Representative, 45th Representative District","Stan LEE","REP",16035,66.37,196339,128406,1,1,0,0
+121,"State Representative, 45th Representative District","Geoff YOUNG","GRN",2110,8.73,196339,128406,1,1,0,0
+122,"State Representative, 45th Representative District","Breck WITHERS","IND",6015,24.90,196339,128406,1,1,0,0
+123,"State Representative, 46th Representative District","Brian SIMPSON","REP",7462,36.22,526076,21256,1,1,0,0
+124,"State Representative, 46th Representative District","Larry CLARK","DEM",13138,63.78,526076,21256,1,1,0,0
+125,"State Representative, 47th Representative District","T.K. BROECKER","REP",7315,39.47,69054,44024,4,4,0,0
+126,"State Representative, 47th Representative District","Rick W. RAND","DEM",11216,60.53,69054,44024,4,4,0,0
+127,"State Representative, 48th Representative District","Bob M. DeWEESE","REP",18455,58.41,526076,32881,1,1,0,0
+128,"State Representative, 48th Representative District","Susan JOHNS","DEM",13143,41.59,526076,32881,1,1,0,0
+129,"State Representative, 49th Representative District","Russell WEBBER","REP",11329,52.81,53128,32032,1,1,0,0
+130,"State Representative, 49th Representative District","Linda Howlett BELCHER","DEM",10124,47.19,53128,32032,1,1,0,0
+131,"State Representative, 50th Representative District","David FLOYD","REP",11379,53.43,96219,59200,3,3,0,0
+132,"State Representative, 50th Representative District","Dick HEATON","DEM",9919,46.57,96219,59200,3,3,0,0
+133,"State Representative, 51st Representative District","John "Bam" CARNEY","REP",14876,100.00,30238,18808,2,2,0,0
+134,"State Representative, 52nd Representative District","Sara Beth GREGORY","REP",11993,100.00,69397,39355,3,3,0,0
+135,"State Representative, 53rd Representative District","Bart ROWLAND","REP",10688,69.02,29555,16898,4,4,0,0
+136,"State Representative, 53rd Representative District","Thomas DODSON","DEM",4797,30.98,29555,16898,4,4,0,0
+137,"State Representative, 54th Representative District","Mike HARMON","REP",9482,54.83,28441,17752,2,2,0,0
+138,"State Representative, 54th Representative District","Barry M. HARMON","DEM",7811,45.17,28441,17752,2,2,0,0
+139,"State Representative, 55th Representative District","Kim KING","REP",12931,61.13,45491,28978,3,3,0,0
+140,"State Representative, 55th Representative District","Kent STEVENS","DEM",8223,38.87,45491,28978,3,3,0,0
+141,"State Representative, 56th Representative District","Douglass JONES","REP",9522,46.74,249015,164500,3,3,0,0
+142,"State Representative, 56th Representative District","Carl P. ROLLINS II.","DEM",10851,53.26,249015,164500,3,3,0,0
+143,"State Representative, 57th Representative District","Don STOSBERG","REP",6571,36.08,34329,23636,1,1,0,0
+144,"State Representative, 57th Representative District","Derrick W. GRAHAM","DEM",11639,63.92,34329,23636,1,1,0,0
+145,"State Representative, 58th Representative District","Brad MONTELL","REP",19491,100.00,40791,27311,2,2,0,0
+146,"State Representative, 59th Representative District","David W. OSBORNE","REP",20623,100.00,569790,32759,2,2,0,0
+147,"State Representative, 60th Representative District","Sal SANTORO","REP",21798,100.00,87325,52776,1,1,0,0
+148,"State Representative, 61st Representative District","Brian E. LINDER","REP",9387,58.74,29806,16515,3,3,0,0
+149,"State Representative, 61st Representative District","Wanda Crupper HAMMONS","DEM",6593,41.26,29806,16515,3,3,0,0
+150,"State Representative, 62nd Representative District","Ryan F. QUARLES","REP",12408,54.03,229187,149219,2,2,0,0
+151,"State Representative, 62nd Representative District","Charlie HOFFMAN","DEM",10557,45.97,229187,149219,2,2,0,0
+152,"State Representative, 63rd Representative District","Diane ST. ONGE","REP",16812,100.00,115201,68113,1,1,0,0
+153,"State Representative, 64th Representative District","Thomas Robert KERR","REP",16294,100.00,115201,68113,1,1,0,0
+154,"State Representative, 65th Representative District","Arnold R. SIMPSON","DEM",8293,100.00,115201,68113,1,1,0,0
+155,"State Representative, 66th Representative District","Addia Kathryn WUCHNER","REP",17272,100.00,87325,52776,1,1,0,0
+156,"State Representative, 67th Representative District","Adam HAAS","REP",5198,40.09,63615,40434,1,1,0,0
+157,"State Representative, 67th Representative District","Dennis KEENE","DEM",7768,59.91,63615,40434,1,1,0,0
+158,"State Representative, 68th Representative District","Joseph M. FISCHER","REP",16795,100.00,63615,40434,1,1,0,0
+159,"State Representative, 69th Representative District","Adam KOENIG","REP",13337,100.00,266141,161323,3,3,0,0
+160,"State Representative, 70th Representative District","Mitchel B. DENHAM JR.","DEM",12301,100.00,28813,16204,3,3,0,0
+161,"State Representative, 71st Representative District","John Will STACY","DEM",10737,100.00,33172,17673,4,4,0,0
+162,"State Representative, 72nd Representative District","Sannie OVERLY","DEM",11615,100.00,223967,143462,4,4,0,0
+163,"State Representative, 73rd Representative District","Donna MAYFIELD","REP",10638,55.44,82332,49216,2,2,0,0
+164,"State Representative, 73rd Representative District","JoEllen REED","DEM",8552,44.56,82332,49216,2,2,0,0
+165,"State Representative, 74th Representative District","Richard HENDERSON","DEM",11562,100.00,33918,17238,3,3,0,0
+166,"State Representative, 75th Representative District","Kelly FLOOD","DEM",9870,100.00,196339,128406,1,1,0,0
+167,"State Representative, 76th Representative District","Richard MARRS","REP",8636,45.39,196339,128406,1,1,0,0
+168,"State Representative, 76th Representative District","Ruth Ann PALUMBO","DEM",10392,54.61,196339,128406,1,1,0,0
+169,"State Representative, 77th Representative District","Jesse CRENSHAW","DEM",12822,100.00,196339,128406,1,1,0,0
+170,"State Representative, 78th Representative District","Bryan LUTZ","REP",7087,44.29,88181,54393,4,4,0,0
+171,"State Representative, 78th Representative District","Thomas M. McKEE","DEM",8913,55.71,88181,54393,4,4,0,0
+172,"State Representative, 79th Representative District","Chris LOGAN","REP",7293,44.79,196339,128406,1,1,0,0
+173,"State Representative, 79th Representative District","Susan WESTROM","DEM",8988,55.21,196339,128406,1,1,0,0
+174,"State Representative, 80th Representative District","David MEADE","REP",12462,100.00,73425,41451,3,3,0,0
+175,"State Representative, 81st Representative District","Mary R. McGill LONG","REP",6443,38.57,56426,33631,1,1,0,0
+176,"State Representative, 81st Representative District","Rita H. SMART","DEM",10263,61.43,56426,33631,1,1,0,0
+177,"State Representative, 82nd Representative District","Regina Petrey BUNCH","REP",12942,100.00,68583,35917,2,2,0,489
+178,"State Representative, 83rd Representative District","Jeff HOOVER","REP",15977,100.00,65106,38200,3,3,0,0
+179,"State Representative, 84th Representative District","Fitz STEELE","DEM",10148,100.00,40596,21519,2,2,0,0
+180,"State Representative, 85th Representative District","Tommy TURNER","REP",15792,100.00,86827,48969,2,2,0,1241
+181,"State Representative, 86th Representative District","Jim STEWART","REP",12079,100.00,64974,33925,2,2,0,0
+182,"State Representative, 87th Representative District","Joshua D. HOWARD","REP",3875,30.43,39853,20539,2,2,0,0
+183,"State Representative, 87th Representative District","Rick NELSON","DEM",8860,69.57,39853,20539,2,2,0,0
+184,"State Representative, 88th Representative District","Robert J. BENVENUTI III.","REP",12959,53.97,196339,128406,1,1,0,0
+185,"State Representative, 88th Representative District","Reginald THOMAS","DEM",11054,46.03,196339,128406,1,1,0,0
+186,"State Representative, 89th Representative District","Marie L. RADER","REP",13372,100.00,55399,29516,3,3,0,0
+187,"State Representative, 90th Representative District","Tim COUCH","REP",11239,100.00,43485,23663,3,3,0,0
+188,"State Representative, 91st Representative District","Gary Wayne HERALD","REP",6332,50.53,26885,13328,3,3,0,0
+189,"State Representative, 91st Representative District","Ted "Teddy" EDMONDS","DEM",6198,49.47,26885,13328,3,3,0,0
+190,"State Representative, 92nd Representative District","John W. SHORT","DEM",9807,100.00,37992,19473,3,3,0,0
+191,"State Representative, 93rd Representative District","W. Keith HALL","DEM",10320,100.00,47020,24207,1,1,1,1
+192,"State Representative, 94th Representative District","Leslie A. COMBS","DEM",11470,100.00,83311,43747,3,3,0,0
+193,"State Representative, 95th Representative District","Gregory D. STUMBO","DEM",10746,100.00,29989,15265,1,1,0,0
+194,"State Representative, 96th Representative District","Jill YORK","REP",10024,100.00,28700,14259,2,2,0,0
+195,"State Representative, 97th Representative District","Bobby Wayne McCOOL","REP",5763,40.97,102203,52588,4,4,0,0
+196,"State Representative, 97th Representative District","Hubert COLLINS","DEM",8305,59.03,102203,52588,4,4,0,0
+197,"State Representative, 98th Representative District","Tanya PULLIN","DEM",12283,100.00,64206,34814,2,2,0,0
+198,"State Representative, 99th Representative District","Rocky ADKINS","DEM",11178,100.00,66737,35376,4,4,0,0
+199,"State Representative, 100th Representative District","Kevin P. SINNETTE","DEM",11097,100.00,36498,19399,1,1,0,0
+200,"Commonwealth's Attorney, 1st Judicial Circuit","Michael B. STACY","DEM",8477,100.00,18765,11272,4,4,0,0
+201,"Commonwealth's Attorney, 5th Judicial Circuit","Zac GREENWELL","DEM",11590,100.00,25682,15451,3,3,0,0
+202,"Commonwealth's Attorney, 7th Judicial Circuit","J. Gail GUILING","DEM",11172,100.00,24944,15371,2,2,0,0
+203,"Commonwealth's Attorney, 10th Judicial Circuit","Terry L. GEOGHEGAN","DEM",20818,100.00,53055,31127,3,3,0,0
+204,"Commonwealth's Attorney, 11th Judicial Circuit","Shelly Sprague MILLER","DEM",17767,100.00,46907,28690,4,4,0,0
+205,"Commonwealth's Attorney, 12th Judicial Circuit","Courtney Tigue BAXTER","REP",25559,67.44,61583,40290,3,3,0,0
+206,"Commonwealth's Attorney, 12th Judicial Circuit","William A. CARTER","DEM",12340,32.56,61583,40290,3,3,0,0
+207,"Commonwealth's Attorney, 13th Judicial Circuit","Thomas L. LOCKRIDGE","DEM",17284,100.00,45514,27928,2,2,0,0
+208,"Commonwealth's Attorney, 14th Judicial Circuit","Gordon "Gordie" SHAW","DEM",27293,100.00,64691,41303,3,3,0,0
+209,"Commonwealth's Attorney, 15th Judicial Circuit","James M. CRAWFORD","DEM",11792,100.00,31347,17140,3,3,0,0
+210,"Commonwealth's Attorney, 18th Judicial Circuit","Douglas MILLER","DEM",11668,100.00,29950,16644,4,4,0,0
+211,"Commonwealth's Attorney, 19th Judicial Circuit","J. Kelly CLARKE","DEM",11266,100.00,28813,16204,3,3,0,0
+212,"Commonwealth's Attorney, 20th Judicial Circuit","Melvin C. LEONHART","DEM",13149,100.00,37534,20379,2,2,0,0
+213,"Commonwealth's Attorney, 21st Judicial Circuit","Ronnie GOLDY JR.","DEM",17092,100.00,46450,25140,4,4,0,0
+214,"Commonwealth's Attorney, 23rd Judicial Circuit","Heather Buntin COMBS","REP",5752,100.00,15542,8113,2,2,0,0
+215,"Commonwealth's Attorney, 24th Judicial Circuit","Anna Deskins MELVIN","REP",13583,100.00,36920,18852,3,3,0,2385
+216,"Commonwealth's Attorney, 25th Judicial Circuit","David W. SMITH","DEM",31789,100.00,82332,49216,2,2,0,0
+217,"Commonwealth's Attorney, 27th Judicial Circuit","Jackie L. STEELE Jr.","REP",25752,100.00,64974,33925,2,2,0,0
+218,"Commonwealth's Attorney, 28th Judicial Circuit","Eddy F. MONTGOMERY","REP",32791,100.00,73425,41451,3,3,0,0
+219,"Commonwealth's Attorney, 29th Judicial Circuit","Gail WILLIAMS","REP",9892,100.00,23477,13898,2,2,0,0
+220,"Commonwealth's Attorney, 34th Judicial Circuit","Allen C. TRIMBLE","REP",14762,100.00,37113,18983,2,2,0,0
+221,"Commonwealth's Attorney, 36th Judicial Circuit","C. Graham MARTIN","DEM",6856,100.00,21801,10955,2,2,0,0
+222,"Commonwealth's Attorney, 37th Judicial Circuit","D. Brandon ISON","DEM",11126,100.00,32806,16394,3,3,0,0
+223,"Commonwealth's Attorney, 38th Judicial Circuit","Timothy R. COLEMAN","REP",17267,100.00,40505,23794,4,4,0,0
+224,"Commonwealth's Attorney, 39th Judicial Circuit","Darrell A. HERALD","DEM",8080,100.00,26236,12094,3,3,0,0
+225,"Commonwealth's Attorney, 40th Judicial Circuit","Jesse M. STOCKTON JR.","REP",8697,100.00,21059,11659,3,3,0,0
+226,"Commonwealth's Attorney, 41st Judicial Circuit","Gary H. GREGORY","REP",13395,100.00,32882,17791,3,3,0,0
+227,"Commonwealth's Attorney, 42nd Judicial Circuit","C. Mark BLANKENSHIP","DEM",21983,100.00,49920,31037,2,2,0,0
+228,"Commonwealth's Attorney, 43rd Judicial Circuit","John Bishop GARDNER","DEM",13740,100.00,35852,21067,2,2,0,0
+229,"Commonwealth's Attorney, 45th Judicial Circuit","Ralph D. VICK","DEM",12695,100.00,28877,17169,2,2,0,0
+230,"Commonwealth's Attorney, 46th Judicial Circuit","David M. WILLIAMS","REP",20095,100.00,50958,28568,3,3,0,0
+231,"Commonwealth's Attorney, 49th Judicial Circuit","Clint Grainger WILLIS","DEM",9495,100.00,25581,14298,2,2,0,0
+232,"Commonwealth's Attorney, 50th Judicial Circuit","Richard "Richie" BOTTOMS","DEM",15516,100.00,36594,22485,2,2,0,0
+233,"Commonwealth's Attorney, 53rd Judicial Circuit","Laura DONNELL","REP",27538,100.00,57227,37746,3,3,0,0
+234,"Commonwealth's Attorney, 54th Judicial Circuit","Linda Tally SMITH","REP",43243,100.00,93255,55885,2,2,0,0
+235,"Commonwealth's Attorney, 56th Judicial Circuit","G.L. OVEY","DEM",14943,100.00,33963,21169,4,4,0,0
+236,"Commonwealth's Attorney, 57th Judicial Circuit","Matthew LEVERIDGE","REP",9591,65.91,27266,15334,2,2,0,0
+237,"Commonwealth's Attorney, 57th Judicial Circuit","David Fayette SMITH","DEM",4961,34.09,27266,15334,2,2,0,0
+238,"Justice of the Supreme Court, 7th Supreme Court District","Janet L. STUMBO","",62581,41.86,356964,185048,22,22,0,0
+239,"Justice of the Supreme Court, 7th Supreme Court District","Will T. SCOTT","",86928,58.14,356964,185048,22,22,0,0
+240,"Judge of the Court of Appeals, 4th Appellate District, 1st Division, Unexpired term","Irv MAZE","",135385,50.79,526076,340993,1,1,0,0
+241,"Judge of the Court of Appeals, 4th Appellate District, 1st Division, Unexpired term","James M. SHAKE","",131198,49.21,526076,340993,1,1,0,0
+242,"Circuit Judge, 27th Judicial Circuit, 2nd Division, Unexpired term","Tom JENSEN","",21930,100.00,64974,33925,2,2,0,0
+243,"Circuit Judge, 29th Judicial Circuit, Unexpired term","Brian WRIGHT","",5803,46.57,23477,13898,2,2,0,0
+244,"Circuit Judge, 29th Judicial Circuit, Unexpired term","Judy D. VANCE","",6657,53.43,23477,13898,2,2,0,0
+245,"Circuit Judge, 30th Judicial Circuit, 10th Division, Unexpired term","Wanda Mitchell BAKER","",73338,28.14,526076,340993,1,1,0,0
+246,"Circuit Judge, 30th Judicial Circuit, 10th Division, Unexpired term","Eric L. ISON","",48622,18.66,526076,340993,1,1,0,0
+247,"Circuit Judge, 30th Judicial Circuit, 10th Division, Unexpired term","Angela BISIG","",138616,53.20,526076,340993,1,1,0,0
+248,"District Judge, 31st Judicial District, 1st Division, Unexpired term","Jimmy "Blue" MARCUM","",10240,100.00,29989,15265,1,1,0,0
+249,"District Judge, 57th Judicial District, Unexpired term","John S. "Jack" KELLEY V.","",6625,41.23,30531,18648,1,1,0,0
+250,"District Judge, 57th Judicial District, Unexpired term","Arch C. "Chip" McKAY III.","",5903,36.74,30531,18648,1,1,0,0
+251,"District Judge, 57th Judicial District, Unexpired term","Thomas C. DAWSON","",3539,22.03,30531,18648,1,1,0,0
+252,"Constitutional Amendment","YES","",1298335,84.49,3037153,1815722,120,120,0,0
+253,"Constitutional Amendment","NO","",238320,15.51,3037153,1815722,120,120,0,0
